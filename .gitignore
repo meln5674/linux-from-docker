@@ -1,0 +1,11 @@
+lfs/
+src/
+rootfs/
+*.swp
+*.bak
+*.log
+Dockerfile
+*.Dockerfile
+*.img
+*.qcow2
+config.yaml
